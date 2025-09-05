@@ -36,7 +36,7 @@ python server.py --transport streamable-http --host 127.0.0.1 --port 8000
 ```
 ## Docker 
 ```bash
-docker run --name icp-mcp -itd registry.cn-hangzhou.aliyuncs.com/wjlin0/icp-mcp:latest
+docker run --name icp-mcp -p 127.0.0.1:8000:8000 -itd registry.cn-hangzhou.aliyuncs.com/wjlin0/icp-mcp:latest
 ```
 # 使用方法
 
