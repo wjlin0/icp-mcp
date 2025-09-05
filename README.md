@@ -74,7 +74,11 @@ docker run --name icp-mcp -p 127.0.0.1:8000:8000 -itd registry.cn-hangzhou.aliyu
 
 ![image-20250904151401022](./img/README/image-20250904151401022.png)
 
+如果该项目是部署在本地的，还可以通过AI让结果保存到本地文件，如下：
 
+![image-20250905135247729](./img/README/image-20250905135247729.png)
+
+![image-20250905135257576](./img/README/image-20250905135257576.png)
 
 ## 工具说明
 
@@ -88,6 +92,16 @@ docker run --name icp-mcp -p 127.0.0.1:8000:8000 -itd registry.cn-hangzhou.aliyu
 
 **返回:**
 包含分页信息和备案记录的字典。
+
+### icp_output_file
+
+查询指定关键词的ICP备案信息。
+**参数:**
+- `keyword`: 查询关键词，可以是公司名、备案号或域名
+- `page`: 查询页数 (默认为 1)
+
+**返回:**
+保存文件路径
 
 ### analyze_icp 提示词
 
