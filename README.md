@@ -106,7 +106,3 @@ src/
 │   └── crack.py     # 验证码识别
 └── *.onnx           # 验证码识别模型文件
 ```
-
-# 感谢
-
-- [projectdiscovery/mcp](https://github.com/projectdiscovery/mcp)
