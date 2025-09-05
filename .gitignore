@@ -54,9 +54,6 @@ train/runs
 train/yolo11n.pt
 train/best.onnx
 .run
-src/test.json
-src/upload
-src/static
 datasets
 train/siamese/datasets
 train/siamese/model_data
