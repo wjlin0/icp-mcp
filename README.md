@@ -7,6 +7,7 @@
 <a href="https://github.com/wjlin0/icp-mcp"><img src="https://img.shields.io/github/last-commit/wjlin0/icp-mcp" alt=""></a> 
 <a href="https://www.wjlin0.com/"><img src="https://img.shields.io/badge/wjlin0-blog-green" alt=""></a>
 </p>
+
 # 特性
 
 - 基于 [MCP](https://modelcontextprotocol.io/) 协议的 ICP 备案信息查询工具
