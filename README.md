@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://github.com/wjlin0/icp-mcp/releases/"><img src="https://img.shields.io/github/release/wjlin0/icp-mcp" alt=""></a> 
 <a href="https://github.com/wjlin0/icp-mcp" ><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wjlin0/icp-mcp"></a>
-<a href="https://github.com/wjlin0/icp-mcp/releases"><img src="https://img.shields.io/github/downloads/wjlin0/icp-mcp/total" alt=""></a> 
+<a href="https://hub.docker.com/r/wjlin0/icp-mcp"><img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/wjlin0/icp-mcp"></a> 
 <a href="https://github.com/wjlin0/icp-mcp"><img src="https://img.shields.io/github/last-commit/wjlin0/icp-mcp" alt=""></a> 
 <a href="https://www.wjlin0.com/"><img src="https://img.shields.io/badge/wjlin0-blog-green" alt=""></a>
 </p>
